@@ -1,0 +1,39 @@
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\bin\Debug\crudSQL.exe.config
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\bin\Debug\crudSQL.exe
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\bin\Debug\crudSQL.pdb
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.csproj.AssemblyReference.cache
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.Form1.resources
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.Presentacion.FrmDepartamentos.resources
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.Presentacion.FrmEmpleados.resources
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.Properties.Resources.resources
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.csproj.GenerateResource.cache
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.csproj.CoreCompileInputs.cache
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.exe
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.pdb
+C:\Users\ro\Desktop\desarrollo de soft\Programacion 2\c#\crudSQL\obj\Debug\crudSQL.Presentacion.FrmProductos.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.csproj.AssemblyReference.cache
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.Form1.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.Presentacion.FrmDepartamentos.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.Presentacion.FrmEmpleados.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.Presentacion.FrmProductos.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.Properties.Resources.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.csproj.GenerateResource.cache
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.csproj.CoreCompileInputs.cache
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.exe
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\obj\Debug\crudSQL.pdb
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\bin\Debug\crudSQL.exe.config
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\bin\Debug\crudSQL.exe
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\crudSQL\bin\Debug\crudSQL.pdb
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.csproj.AssemblyReference.cache
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.exe
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.pdb
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.Form1.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.Presentacion.FrmDepartamentos.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.Presentacion.FrmEmpleados.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.Properties.Resources.resources
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.csproj.GenerateResource.cache
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.csproj.CoreCompileInputs.cache
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\bin\Debug\crudSQL.exe.config
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\bin\Debug\crudSQL.exe
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\bin\Debug\crudSQL.pdb
+C:\Users\ro\Desktop\desarrollo de soft\crudSQL\obj\Debug\crudSQL.Presentacion.FrmProductos.resources
