@@ -144,5 +144,8 @@
   <ItemGroup>
     <None Include="Resources\62587_goods_palet_products_shelf_shipment_icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\2620515_employee_job_laptop_seeker_unemployee_icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
