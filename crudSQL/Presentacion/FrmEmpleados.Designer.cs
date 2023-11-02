@@ -72,7 +72,7 @@
             // 
             this.txtNombre.Location = new System.Drawing.Point(458, 55);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(489, 26);
+            this.txtNombre.Size = new System.Drawing.Size(529, 26);
             this.txtNombre.TabIndex = 2;
             this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
@@ -82,12 +82,13 @@
             this.txtPrimerApellido.Name = "txtPrimerApellido";
             this.txtPrimerApellido.Size = new System.Drawing.Size(271, 26);
             this.txtPrimerApellido.TabIndex = 3;
+            this.txtPrimerApellido.TextChanged += new System.EventHandler(this.txtPrimerApellido_TextChanged);
             // 
             // txtCorreo
             // 
-            this.txtCorreo.Location = new System.Drawing.Point(267, 172);
+            this.txtCorreo.Location = new System.Drawing.Point(271, 172);
             this.txtCorreo.Name = "txtCorreo";
-            this.txtCorreo.Size = new System.Drawing.Size(680, 26);
+            this.txtCorreo.Size = new System.Drawing.Size(716, 26);
             this.txtCorreo.TabIndex = 6;
             this.txtCorreo.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
@@ -96,7 +97,7 @@
             this.cbxDepartamento.FormattingEnabled = true;
             this.cbxDepartamento.Location = new System.Drawing.Point(267, 241);
             this.cbxDepartamento.Name = "cbxDepartamento";
-            this.cbxDepartamento.Size = new System.Drawing.Size(680, 28);
+            this.cbxDepartamento.Size = new System.Drawing.Size(720, 28);
             this.cbxDepartamento.TabIndex = 7;
             this.cbxDepartamento.SelectedIndexChanged += new System.EventHandler(this.cbxDepartamento_SelectedIndexChanged);
             // 
@@ -161,9 +162,9 @@
             // 
             this.btnModificar.Image = global::crudSQL.Properties.Resources._8725936_edit_alt_icon;
             this.btnModificar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnModificar.Location = new System.Drawing.Point(627, 286);
+            this.btnModificar.Location = new System.Drawing.Point(467, 325);
             this.btnModificar.Name = "btnModificar";
-            this.btnModificar.Size = new System.Drawing.Size(154, 74);
+            this.btnModificar.Size = new System.Drawing.Size(183, 110);
             this.btnModificar.TabIndex = 15;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -173,9 +174,9 @@
             // btnAgregar
             // 
             this.btnAgregar.Image = global::crudSQL.Properties.Resources._8726195_save_floppy_icon;
-            this.btnAgregar.Location = new System.Drawing.Point(264, 286);
+            this.btnAgregar.Location = new System.Drawing.Point(271, 325);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(157, 72);
+            this.btnAgregar.Size = new System.Drawing.Size(183, 110);
             this.btnAgregar.TabIndex = 16;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -186,40 +187,47 @@
             // 
             this.txtSegundoApellido.Location = new System.Drawing.Point(569, 116);
             this.txtSegundoApellido.Name = "txtSegundoApellido";
-            this.txtSegundoApellido.Size = new System.Drawing.Size(378, 26);
+            this.txtSegundoApellido.Size = new System.Drawing.Size(418, 26);
             this.txtSegundoApellido.TabIndex = 17;
+            this.txtSegundoApellido.TextChanged += new System.EventHandler(this.txtSegundoApellido_TextChanged);
             // 
             // btnBorrar
             // 
             this.btnBorrar.Image = global::crudSQL.Properties.Resources._8726512_trash_icon;
-            this.btnBorrar.Location = new System.Drawing.Point(796, 286);
+            this.btnBorrar.Location = new System.Drawing.Point(870, 325);
             this.btnBorrar.Name = "btnBorrar";
-            this.btnBorrar.Size = new System.Drawing.Size(163, 73);
+            this.btnBorrar.Size = new System.Drawing.Size(183, 110);
             this.btnBorrar.TabIndex = 18;
             this.btnBorrar.Text = "Borrar";
             this.btnBorrar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnBorrar.UseVisualStyleBackColor = true;
+            this.btnBorrar.Click += new System.EventHandler(this.btnBorrar_Click);
             // 
             // btnCancelar
             // 
             this.btnCancelar.Image = global::crudSQL.Properties.Resources._8725805_exit_icon;
-            this.btnCancelar.Location = new System.Drawing.Point(442, 286);
+            this.btnCancelar.Location = new System.Drawing.Point(672, 325);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(163, 74);
+            this.btnCancelar.Size = new System.Drawing.Size(183, 110);
             this.btnCancelar.TabIndex = 19;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // dgvEmpleados
             // 
+            this.dgvEmpleados.AllowUserToAddRows = false;
+            this.dgvEmpleados.AllowUserToOrderColumns = true;
+            this.dgvEmpleados.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvEmpleados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvEmpleados.Location = new System.Drawing.Point(36, 375);
+            this.dgvEmpleados.Location = new System.Drawing.Point(25, 441);
             this.dgvEmpleados.Name = "dgvEmpleados";
             this.dgvEmpleados.RowHeadersWidth = 62;
             this.dgvEmpleados.RowTemplate.Height = 28;
-            this.dgvEmpleados.Size = new System.Drawing.Size(933, 345);
+            this.dgvEmpleados.Size = new System.Drawing.Size(1028, 575);
             this.dgvEmpleados.TabIndex = 20;
+            this.dgvEmpleados.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Seleccionar);
             // 
             // Avatar
             // 
@@ -235,7 +243,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1076, 732);
+            this.ClientSize = new System.Drawing.Size(1093, 1041);
             this.Controls.Add(this.dgvEmpleados);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnBorrar);
